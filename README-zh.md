@@ -1,3 +1,5 @@
+<img src="imgs/icon.svg" alt="icon" width="100" />
+
 # Google Meet 歡迎蒞臨
 
 [English](README.md) 中文

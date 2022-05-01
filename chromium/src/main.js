@@ -69,7 +69,9 @@ globalThis.sp = new ScanningProcess([{
         if (!globalThis.welcome) return false;
         try {
             let btnAccept = document.querySelector('*[role=dialog]')?.getElementsByTagName('button')[1];
-            btnAccept.click();
+            if (btnAccept.getAttribute('data-mdc-dialog-action') === 'accept') {
+                btnAccept.click();
+            }
         } catch {
             return false;
         }
