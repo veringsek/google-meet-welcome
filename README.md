@@ -2,7 +2,7 @@
 
 # [Google Meet Welcome](http://github.com/veringsek/google-meet-welcome)
 
-English [中文](README-zh.md)
+> English [中文](README-zh.md)
 
 Google Meet Welcome is a Microsoft Edge Extension to automatically accept when people request to join your Google Meet meeting.
 

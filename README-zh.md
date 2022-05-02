@@ -2,7 +2,7 @@
 
 # [Google Meet 歡迎蒞臨](http://github.com/veringsek/google-meet-welcome)
 
-[English](README.md) 中文
+> [English](README.md) 中文
 
 Google Meet 歡迎蒞臨是一個微軟 Edge 瀏覽器的擴充功能，能自動允許使用者加入 Google Meet 會議。
 
