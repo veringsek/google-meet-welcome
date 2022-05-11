@@ -10,6 +10,8 @@ Google Meet Welcome is a Microsoft Edge Extension to automatically accept when p
 
 Get this extension on [Microsoft Edge Addons]().
 
+Get this userscript on [GreasyFork](https://greasyfork.org/zh-TW/scripts/444848-google-meet-welcome).
+
 ## Usage
 
 In the meeting room, there will be a door icon at bottom to toggle Google Meet Welcome on and off. The feature is off by default, and the icon will be a closed door. Whenever the feature is on, the icon will become an open door.
