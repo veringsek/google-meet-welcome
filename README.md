@@ -10,7 +10,7 @@ Google Meet Welcome is a Microsoft Edge Extension to automatically accept when p
 
 Get this extension on [Microsoft Edge Addons]().
 
-Get this userscript on [GreasyFork](https://greasyfork.org/zh-TW/scripts/444848-google-meet-welcome).
+Get this userscript on [GreasyFork](https://greasyfork.org/en/scripts/444848-google-meet-welcome).
 
 ## Usage
 

@@ -10,6 +10,8 @@ Google Meet 歡迎蒞臨是一個微軟 Edge 瀏覽器的擴充功能，能自�
 
 本擴充功能可以在 [Microsoft Edge 外掛程式]() 頁面取得。
 
+本用戶腳本可以在 [Greasy Fork](https://greasyfork.org/zh-TW/scripts/444848-google-meet-welcome) 頁面取得。
+
 ## 用法
 
 進入會議室後，在下方會出現一個門的按鈕，這個按鈕可以用來啟用或停用 Google Meet 歡迎蒞臨。一開始 Google Meet 歡迎蒞臨會預設為停用，這時圖示會是一個關著的門。當 Google Meet 歡迎蒞臨被啟用時，圖示會變為一個開啟的門。
