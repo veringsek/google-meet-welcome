@@ -6,7 +6,7 @@
 // @match               http://meet.google.com/*
 // @match               https://meet.google.com/*
 // @grant               none
-// @version             0.0.3
+// @version             0.0.4
 // @author              veringsek
 // @description         Welcome is a Microsoft Edge Extension to automatically accept when people request to join your Google Meet meeting.
 // @description:zh-TW   歡迎蒞臨是一個微軟 Edge 瀏覽器的擴充功能，能自動允許使用者加入 Google Meet 會議。
