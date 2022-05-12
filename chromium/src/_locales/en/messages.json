@@ -1,8 +1,8 @@
 {
     "appName": {
-        "message": "Google Meet Welcome"
+        "message": "Welcome"
     },
     "appDesc": {
-        "message": "Google Meet Welcome is a Microsoft Edge Extension to automatically accept when people request to join your Google Meet meeting."
+        "message": "Welcome is a Microsoft Edge Extension to automatically accept when people request to join your Google Meet meeting."
     }
 }
