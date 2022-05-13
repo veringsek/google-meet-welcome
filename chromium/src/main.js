@@ -41,25 +41,36 @@ const TARGET = 3;
 
 globalThis.sp = new ScanningProcess([{
     func: function () {
+        let divButtons;
         try {
-            let divButtons = document.getElementsByClassName(DIV_BUTTONS)[0];
+            divButtons = document.getElementsByClassName(DIV_BUTTONS)[0];
+
             let divWelcome = divButtons.children[TARGET].cloneNode(true);
-            divButtons.insertBefore(divWelcome, divButtons.children[TARGET + 1]);
             let btnWelcome = divWelcome.getElementsByTagName('button')[0];
             btnWelcome.id = 'btnWelcome';
             btnWelcome.addEventListener('click', ev => toggleWelcome());
             btnWelcome.setAttribute('data-tooltip-id', 'tipWelcome');
+            
             let icnGoogleMaterial = divWelcome.getElementsByTagName('i')[0];
             icnGoogleMaterial.style.display = 'none';
+            
             let icnWelcome = document.createElement('span');
             icnWelcome.id = 'icnWelcome';
+
             let tipWelcome = divWelcome.querySelector('*[role=tooltip]');
             tipWelcome.id = 'tipWelcome';
+
             icnGoogleMaterial.parentElement.insertBefore(icnWelcome, icnGoogleMaterial);
+
+            divButtons.insertBefore(divWelcome, divButtons.children[TARGET + 1]);
+            
             toggleWelcome(false);
             return true;
         } catch (error) {
             console.log(error);
+            if (divButtons instanceof HTMLElement) {
+                divButtons.remove();
+            }
             return false;
         }
     },
