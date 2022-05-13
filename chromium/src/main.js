@@ -65,7 +65,7 @@ globalThis.sp = new ScanningProcess([{
 
             icnGoogleMaterial.parentElement.insertBefore(icnWelcome, icnGoogleMaterial);
 
-            divButtons.insertBefore(divWelcome, divButtons.children[TARGET + 1]);
+            divButtons.insertBefore(divWelcome, divButtons.children[TARGET]);
 
             toggleWelcome(false);
             return true;
