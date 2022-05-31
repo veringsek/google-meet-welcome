@@ -8,7 +8,7 @@
 
 ## 安裝
 
-本擴充功能可以在 [Microsoft Edge 外掛程式]() 頁面取得。
+本擴充功能可以在 [Microsoft Edge 外掛程式](https://microsoftedge.microsoft.com/addons/detail/welcome/iajbflghnchhehjfjopjlnbiaohbmkhp) 頁面取得。
 
 本用戶腳本可以在 [Greasy Fork](https://greasyfork.org/zh-TW/scripts/444848-google-meet-welcome) 頁面取得。
 

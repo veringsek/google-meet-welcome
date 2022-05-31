@@ -8,7 +8,7 @@ Welcome is a Microsoft Edge Extension to automatically accept requests to join y
 
 ## Install
 
-Get this extension on [Microsoft Edge Addons]().
+Get this extension on [Microsoft Edge Addons](https://microsoftedge.microsoft.com/addons/detail/welcome/iajbflghnchhehjfjopjlnbiaohbmkhp).
 
 Get this userscript on [Greasy Fork](https://greasyfork.org/en/scripts/444848-google-meet-welcome).
 
