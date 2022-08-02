@@ -4,9 +4,11 @@
 
 > [English](README.md) 中文
 
-歡迎蒞臨是一個微軟 Edge 瀏覽器的擴充功能，能自動允許使用者加入 Google Meet 會議。
+歡迎蒞臨是一個適用於 Chromium 的瀏覽器擴充功能，能自動允許使用者加入 Google Meet 會議。
 
 ## 安裝
+
+本擴充功能可以在 [Chrome 線上應用程式商店](https://chrome.google.com/webstore/detail/welcome/digipgccemhgimhbppihcflkdhmfmega?hl=zh-TW&authuser=0) 頁面取得。
 
 本擴充功能可以在 [Microsoft Edge 外掛程式](https://microsoftedge.microsoft.com/addons/detail/welcome/iajbflghnchhehjfjopjlnbiaohbmkhp) 頁面取得。
 

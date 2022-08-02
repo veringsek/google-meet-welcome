@@ -4,9 +4,11 @@
 
 > English [中文](README-zh.md)
 
-Welcome is a Microsoft Edge Extension to automatically accept requests to join your Google Meet meeting.
+Welcome is a Chromium Extension to automatically accept requests to join your Google Meet meeting.
 
 ## Install
+
+Get this extension on [Chrome Web Store](https://chrome.google.com/webstore/detail/welcome/digipgccemhgimhbppihcflkdhmfmega?hl=zh-TW&authuser=0).
 
 Get this extension on [Microsoft Edge Addons](https://microsoftedge.microsoft.com/addons/detail/welcome/iajbflghnchhehjfjopjlnbiaohbmkhp).
 
